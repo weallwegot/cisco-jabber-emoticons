@@ -1,6 +1,8 @@
 # webscraping library parser
 import lxml.html
 import requests
+from collections import OrderedDict
+import json
 
 # webscraping library w/ easier syntax
 from bs4 import BeautifulSoup, SoupStrainer
@@ -23,10 +25,11 @@ only_the_large_important_table = SoupStrainer(attrs={"border":"1"})
 
 soup_table = BeautifulSoup(emoji_html,"lxml",parse_only=only_the_large_important_table)
 
-# will hold key, value pair for each emoji
+# list will hold tuples (key, value) pair for each emoji
 # key: name of the emoji
 # value: the link to the image source
-super_dictionary = {}
+# use list to preserve order
+super_list = []
 # get all of the rows of the table
 all_table_rows = soup_table.find_all('tr')
 # the index that corresponds to the tag with a specific platform img
@@ -44,13 +47,17 @@ for tr_tag in all_table_rows:
 					class_name = child['class']
 					if class_name[0] == 'name':
 						# replace spaces with underscores so they can eventually be used as file names
-						emoji_name = child.string.replace(' ','_')
-						super_dictionary[emoji_name] = image_src_string
+						emoji_name = child.string.replace(' ','_').replace(':','').replace('.','').replace('!','').replace(',','').replace('-','_')
+						#super_dictionary[emoji_name] = image_src_string
+						good_tuple = (emoji_name,image_src_string)
+						super_list.append(good_tuple)
 		except:
 			continue
 
 
-print(str(super_dictionary.keys()))
+#print(str(super_dictionary.keys()))
+with open('pics_data.json','w') as outfile:
+	json.dump(OrderedDict(super_list),outfile)
 
 
 
