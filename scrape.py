@@ -31,18 +31,23 @@ super_dictionary = {}
 all_table_rows = soup_table.find_all('tr')
 # the index that corresponds to the tag with a specific platform img
 index_dict = {'apple_emoji':6}
+# size of tags with legitimate content in them
 for tr_tag in all_table_rows:
 	# because there are some rows that only have a few elements
 	# these are the rows that dont have the emoji pictures in them.
-	if len(tr_tag)>index_dict['apple_emoji']:
-		image_src_string = tr_tag.contents[index_dict['apple_emoji']].img['src']
-		for child in tr_tag.contents:
-			# some of new line characters get picked up as children. we want to skip those
-			if len(child)>1:
-				class_name = child['class']
-				if class_name == 'name':
-					emoji_name = child.string
-					super_dictionary[emoji_name] = image_src_string
+	if len(tr_tag) == 32:
+		try:
+			image_src_string = tr_tag.contents[index_dict['apple_emoji']].img['src']
+			for child in tr_tag.contents:
+				# some of new line characters get picked up as children. we want to skip those
+				if not child == '\n':
+					class_name = child['class']
+					if class_name[0] == 'name':
+						# replace spaces with underscores so they can eventually be used as file names
+						emoji_name = child.string.replace(' ','_')
+						super_dictionary[emoji_name] = image_src_string
+		except:
+			continue
 
 
 print(str(super_dictionary.keys()))
