@@ -1,26 +1,51 @@
-# webscraping library
+# webscraping library parser
 import lxml.html
 import requests
 
-import urllib2
-# another option for webscraping library
+# webscraping library w/ easier syntax
 from bs4 import BeautifulSoup, SoupStrainer
-import itertools
 
 
-# this is just copied from an old repo, i don't think its exactly what we want. but just a template
-# response = urllib2.urlopen("http://unicode.org/emoji/charts/full-emoji-list.html")
-# emoji_html = response.read()
-# only_names = SoupStrainer(attrs={"class": "name"})
-# only_codes = SoupStrainer(attrs={"class": "code"})
 
 
-# soup_names = BeautifulSoup(emoji_html,"html.parser",parse_only=only_names)
-# soup_codes = BeautifulSoup(emoji_html,"html.parser",parse_only=only_codes)
+headers = {'User-Agent':"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30"}
+try:
+	response = requests.get("http://unicode.org/emoji/charts/full-emoji-list.html",headers=headers)
+except requests.exceptions.RequestException as e:
+	print 'There was an error'
+	print e
+except requests.exceptions.ConnectionError as e:
+	print e
+emoji_html = response.content
+# sub set of the full page that only includes tags with attributes of border=1. 
+# (this is the giant table with all the emojis)
+only_the_large_important_table = SoupStrainer(attrs={"border":"1"})
 
-# emoji_d_name = {}
-# emoji_d_code = {}
+soup_table = BeautifulSoup(emoji_html,"lxml",parse_only=only_the_large_important_table)
 
-# for name,code in itertools.izip(soup_names.strings,soup_codes.strings):
-# 	emoji_d_name[name] = code
-# 	emoji_d_code[code] = name
+# will hold key, value pair for each emoji
+# key: name of the emoji
+# value: the link to the image source
+super_dictionary = {}
+# get all of the rows of the table
+all_table_rows = soup_table.find_all('tr')
+# the index that corresponds to the tag with a specific platform img
+index_dict = {'apple_emoji':6}
+for tr_tag in all_table_rows:
+	# because there are some rows that only have a few elements
+	# these are the rows that dont have the emoji pictures in them.
+	if len(tr_tag)>index_dict['apple_emoji']:
+		image_src_string = tr_tag.contents[index_dict['apple_emoji']].img['src']
+		for child in tr_tag.contents:
+			# some of new line characters get picked up as children. we want to skip those
+			if len(child)>1:
+				class_name = child['class']
+				if class_name == 'name':
+					emoji_name = child.string
+					super_dictionary[emoji_name] = image_src_string
+
+
+print(str(super_dictionary.keys()))
+
+
+
