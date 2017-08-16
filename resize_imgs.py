@@ -2,6 +2,7 @@ import os
 import sys
 from PIL import Image
 
+#https://stackoverflow.com/questions/1048658/resize-images-in-directory
 def resize(folder, fileName, destination_folder, dim_width=17,dim_length=17):
     filePath = os.path.join(folder, fileName)
     im = Image.open(filePath)
