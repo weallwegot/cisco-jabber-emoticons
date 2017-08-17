@@ -1,22 +1,22 @@
-## cisco-jabber-emoticons
+# cisco-jabber-emoticons
 
 Get the full set of emojis (2,300+) available on Cisco Jabber 
 
 Move the `CustomEmoticons` folder into:
-
-```
+---------
 For 32-bit operating systems:
-	- Program Files\Cisco Systems\Cisco Jabber\
+```
+ Program Files\Cisco Systems\Cisco Jabber\
 ```
 
-
-```
 For 64-bit operating systems:
-	-Program Files(x86)\Cisco Systems\Cisco Jabber\
+
+```
+Program Files(x86)\Cisco Systems\Cisco Jabber\
 ```
 
 
-# The Keyboard Shortcuts are as follows:
+## The Keyboard Shortcuts:
 
 
 ```
