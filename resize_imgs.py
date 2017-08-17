@@ -19,7 +19,7 @@ def bulkResize(imageFolder, destination_folder):
             if ext not in imgExts:
                 continue
 
-            resize(path, fileName, destination_folder)
+            resize(path, fileName, destination_folder,dim_width=35,dim_length=35)
 
 
 bulkResize('imgs','resized_imgs')
