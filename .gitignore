@@ -1,7 +1,11 @@
 #ignore the image folders becuase they exist in customemoticons
-imgs/
-resized_imgs/
+imgs/*.png
+resized_imgs/*.png
+
+#IDE tings
 .vscode
+.idea
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
