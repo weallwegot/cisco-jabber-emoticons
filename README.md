@@ -15,6 +15,7 @@ For 64-bit operating systems:
 Program Files(x86)\Cisco Systems\Cisco Jabber\
 ```
 
+*make sure to restart the Cisco Jabber process to allow the changes to take effect*
 
 ## The Keyboard Shortcuts:
 
