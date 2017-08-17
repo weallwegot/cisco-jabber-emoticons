@@ -89,29 +89,29 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":baby_symbol" 
    ":back_arrow" 
    ":backhand_index_pointing_down" 
-   ":backhand_index_pointing_down_dark_skin_tone" pointing_down_dark_skin_tone"/>
-   ":backhand_index_pointing_down_light_skin_tone" pointing_down_light_skin_tone"/>
-   ":backhand_index_pointing_down_medium_dark_skin_tone" _index_pointing_down_medium_dark_skin_tone"/>
-   ":backhand_index_pointing_down_medium_light_skin_tone" text="backhand_index_pointing_down_medium_light_skin_tone"/>
-   ":backhand_index_pointing_down_medium_skin_tone" pointing_down_medium_skin_tone"/>
+   ":backhand_index_pointing_down_dark_skin_tone" pointing_down_dark_skin_tone"
+   ":backhand_index_pointing_down_light_skin_tone" pointing_down_light_skin_tone"
+   ":backhand_index_pointing_down_medium_dark_skin_tone" _index_pointing_down_medium_dark_skin_tone"
+   ":backhand_index_pointing_down_medium_light_skin_tone" text="backhand_index_pointing_down_medium_light_skin_tone"
+   ":backhand_index_pointing_down_medium_skin_tone" pointing_down_medium_skin_tone"
    ":backhand_index_pointing_left" 
-   ":backhand_index_pointing_left_dark_skin_tone" pointing_left_dark_skin_tone"/>
-   ":backhand_index_pointing_left_light_skin_tone" pointing_left_light_skin_tone"/>
-   ":backhand_index_pointing_left_medium_dark_skin_tone" _index_pointing_left_medium_dark_skin_tone"/>
-   ":backhand_index_pointing_left_medium_light_skin_tone" text="backhand_index_pointing_left_medium_light_skin_tone"/>
-   ":backhand_index_pointing_left_medium_skin_tone" pointing_left_medium_skin_tone"/>
+   ":backhand_index_pointing_left_dark_skin_tone" pointing_left_dark_skin_tone"
+   ":backhand_index_pointing_left_light_skin_tone" pointing_left_light_skin_tone"
+   ":backhand_index_pointing_left_medium_dark_skin_tone" _index_pointing_left_medium_dark_skin_tone"
+   ":backhand_index_pointing_left_medium_light_skin_tone" text="backhand_index_pointing_left_medium_light_skin_tone"
+   ":backhand_index_pointing_left_medium_skin_tone" pointing_left_medium_skin_tone"
    ":backhand_index_pointing_right" 
-   ":backhand_index_pointing_right_dark_skin_tone" pointing_right_dark_skin_tone"/>
-   ":backhand_index_pointing_right_light_skin_tone" pointing_right_light_skin_tone"/>
-   ":backhand_index_pointing_right_medium_dark_skin_tone" text="backhand_index_pointing_right_medium_dark_skin_tone"/>
-   ":backhand_index_pointing_right_medium_light_skin_tone" text="backhand_index_pointing_right_medium_light_skin_tone"/>
-   ":backhand_index_pointing_right_medium_skin_tone" pointing_right_medium_skin_tone"/>
+   ":backhand_index_pointing_right_dark_skin_tone" pointing_right_dark_skin_tone"
+   ":backhand_index_pointing_right_light_skin_tone" pointing_right_light_skin_tone"
+   ":backhand_index_pointing_right_medium_dark_skin_tone" text="backhand_index_pointing_right_medium_dark_skin_tone"
+   ":backhand_index_pointing_right_medium_light_skin_tone" text="backhand_index_pointing_right_medium_light_skin_tone"
+   ":backhand_index_pointing_right_medium_skin_tone" pointing_right_medium_skin_tone"
    ":backhand_index_pointing_up" 
-   ":backhand_index_pointing_up_dark_skin_tone" _dark_skin_tone"/>
-   ":backhand_index_pointing_up_light_skin_tone" up_light_skin_tone"/>
-   ":backhand_index_pointing_up_medium_dark_skin_tone" index_pointing_up_medium_dark_skin_tone"/>
-   ":backhand_index_pointing_up_medium_light_skin_tone" index_pointing_up_medium_light_skin_tone"/>
-   ":backhand_index_pointing_up_medium_skin_tone" pointing_up_medium_skin_tone"/>
+   ":backhand_index_pointing_up_dark_skin_tone" _dark_skin_tone"
+   ":backhand_index_pointing_up_light_skin_tone" up_light_skin_tone"
+   ":backhand_index_pointing_up_medium_dark_skin_tone" index_pointing_up_medium_dark_skin_tone"
+   ":backhand_index_pointing_up_medium_light_skin_tone" index_pointing_up_medium_light_skin_tone"
+   ":backhand_index_pointing_up_medium_skin_tone" pointing_up_medium_skin_tone"
    ":bacon" 
    ":badminton" 
    ":baggage_claim" 
@@ -166,21 +166,21 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":blond_haired_man" 
    ":blond_haired_man_dark_skin_tone" 
    ":blond_haired_man_light_skin_tone" 
-   ":blond_haired_man_medium_dark_skin_tone" skin_tone"/>
-   ":blond_haired_man_medium_light_skin_tone" _skin_tone"/>
+   ":blond_haired_man_medium_dark_skin_tone" skin_tone"
+   ":blond_haired_man_medium_light_skin_tone" _skin_tone"
    ":blond_haired_man_medium_skin_tone" 
    ":blond_haired_person" 
    ":blond_haired_person_dark_skin_tone" 
-   ":blond_haired_person_light_skin_tone" skin_tone"/>
-   ":blond_haired_person_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":blond_haired_person_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":blond_haired_person_medium_skin_tone" skin_tone"/>
+   ":blond_haired_person_light_skin_tone" skin_tone"
+   ":blond_haired_person_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":blond_haired_person_medium_light_skin_tone" medium_light_skin_tone"
+   ":blond_haired_person_medium_skin_tone" skin_tone"
    ":blond_haired_woman" 
    ":blond_haired_woman_dark_skin_tone" 
    ":blond_haired_woman_light_skin_tone" 
-   ":blond_haired_woman_medium_dark_skin_tone" dark_skin_tone"/>
-   ":blond_haired_woman_medium_light_skin_tone" _light_skin_tone"/>
-   ":blond_haired_woman_medium_skin_tone" skin_tone"/>
+   ":blond_haired_woman_medium_dark_skin_tone" dark_skin_tone"
+   ":blond_haired_woman_medium_light_skin_tone" _light_skin_tone"
+   ":blond_haired_woman_medium_skin_tone" skin_tone"
    ":blossom" 
    ":blowfish" 
    ":blue_book" 
@@ -211,8 +211,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":bride_with_veil" 
    ":bride_with_veil_dark_skin_tone" 
    ":bride_with_veil_light_skin_tone" 
-   ":bride_with_veil_medium_dark_skin_tone" tone"/>
-   ":bride_with_veil_medium_light_skin_tone" skin_tone"/>
+   ":bride_with_veil_medium_dark_skin_tone" tone"
+   ":bride_with_veil_medium_light_skin_tone" skin_tone"
    ":bride_with_veil_medium_skin_tone" 
    ":bridge_at_night" 
    ":briefcase" 
@@ -239,7 +239,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":call_me_hand_dark_skin_tone" 
    ":call_me_hand_light_skin_tone" 
    ":call_me_hand_medium_dark_skin_tone" 
-   ":call_me_hand_medium_light_skin_tone" tone"/>
+   ":call_me_hand_medium_light_skin_tone" tone"
    ":call_me_hand_medium_skin_tone" 
    ":cambodia" 
    ":camel" 
@@ -301,8 +301,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":clapping_hands" 
    ":clapping_hands_dark_skin_tone" 
    ":clapping_hands_light_skin_tone" 
-   ":clapping_hands_medium_dark_skin_tone" skin_tone"/>
-   ":clapping_hands_medium_light_skin_tone" skin_tone"/>
+   ":clapping_hands_medium_dark_skin_tone" skin_tone"
+   ":clapping_hands_medium_light_skin_tone" skin_tone"
    ":clapping_hands_medium_skin_tone" 
    ":classical_building" 
    ":clinking_beer_mugs" 
@@ -339,10 +339,10 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":construction" 
    ":construction_worker" 
    ":construction_worker_dark_skin_tone" 
-   ":construction_worker_light_skin_tone" tone"/>
-   ":construction_worker_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":construction_worker_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":construction_worker_medium_skin_tone" tone"/>
+   ":construction_worker_light_skin_tone" tone"
+   ":construction_worker_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":construction_worker_medium_light_skin_tone" medium_light_skin_tone"
+   ":construction_worker_medium_skin_tone" tone"
    ":control_knobs" 
    ":convenience_store" 
    ":cook_islands" 
@@ -375,8 +375,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":crossed_fingers" 
    ":crossed_fingers_dark_skin_tone" 
    ":crossed_fingers_light_skin_tone" 
-   ":crossed_fingers_medium_dark_skin_tone" skin_tone"/>
-   ":crossed_fingers_medium_light_skin_tone" skin_tone"/>
+   ":crossed_fingers_medium_dark_skin_tone" skin_tone"
+   ":crossed_fingers_medium_light_skin_tone" skin_tone"
    ":crossed_fingers_medium_skin_tone" 
    ":crossed_flags" 
    ":crossed_swords" 
@@ -559,8 +559,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":flexed_biceps" 
    ":flexed_biceps_dark_skin_tone" 
    ":flexed_biceps_light_skin_tone" 
-   ":flexed_biceps_medium_dark_skin_tone" skin_tone"/>
-   ":flexed_biceps_medium_light_skin_tone" skin_tone"/>
+   ":flexed_biceps_medium_dark_skin_tone" skin_tone"
+   ":flexed_biceps_medium_light_skin_tone" skin_tone"
    ":flexed_biceps_medium_skin_tone" 
    ":floppy_disk" 
    ":flower_playing_cards" 
@@ -571,7 +571,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":folded_hands_dark_skin_tone" 
    ":folded_hands_light_skin_tone" 
    ":folded_hands_medium_dark_skin_tone" 
-   ":folded_hands_medium_light_skin_tone" skin_tone"/>
+   ":folded_hands_medium_light_skin_tone" skin_tone"
    ":folded_hands_medium_skin_tone" 
    ":footprints" 
    ":fork_and_knife" 
@@ -637,7 +637,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":grenada" 
    ":grimacing_face" 
    ":grinning_cat_face" 
-   ":grinning_cat_face_with_smiling_eyes" smiling_eyes"/>
+   ":grinning_cat_face_with_smiling_eyes" smiling_eyes"
    ":grinning_face" 
    ":grinning_face_with_big_eyes" 
    ":grinning_face_with_smiling_eyes" 
@@ -665,11 +665,11 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":hammer_and_wrench" 
    ":hamster_face" 
    ":hand_with_fingers_splayed" 
-   ":hand_with_fingers_splayed_dark_skin_tone" dark_skin_tone"/>
-   ":hand_with_fingers_splayed_light_skin_tone" _light_skin_tone"/>
-   ":hand_with_fingers_splayed_medium_dark_skin_tone" fingers_splayed_medium_dark_skin_tone"/>
-   ":hand_with_fingers_splayed_medium_light_skin_tone" fingers_splayed_medium_light_skin_tone"/>
-   ":hand_with_fingers_splayed_medium_skin_tone" splayed_medium_skin_tone"/>
+   ":hand_with_fingers_splayed_dark_skin_tone" dark_skin_tone"
+   ":hand_with_fingers_splayed_light_skin_tone" _light_skin_tone"
+   ":hand_with_fingers_splayed_medium_dark_skin_tone" fingers_splayed_medium_dark_skin_tone"
+   ":hand_with_fingers_splayed_medium_light_skin_tone" fingers_splayed_medium_light_skin_tone"
+   ":hand_with_fingers_splayed_medium_skin_tone" splayed_medium_skin_tone"
    ":handbag" 
    ":handshake" 
    ":hatching_chick" 
@@ -706,7 +706,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":horse_racing_dark_skin_tone" 
    ":horse_racing_light_skin_tone" 
    ":horse_racing_medium_dark_skin_tone" 
-   ":horse_racing_medium_light_skin_tone" skin_tone"/>
+   ":horse_racing_medium_light_skin_tone" skin_tone"
    ":horse_racing_medium_skin_tone" 
    ":hospital" 
    ":hot_beverage" 
@@ -733,8 +733,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":index_pointing_up" 
    ":index_pointing_up_dark_skin_tone" 
    ":index_pointing_up_light_skin_tone" 
-   ":index_pointing_up_medium_dark_skin_tone" _skin_tone"/>
-   ":index_pointing_up_medium_light_skin_tone" light_skin_tone"/>
+   ":index_pointing_up_medium_dark_skin_tone" _skin_tone"
+   ":index_pointing_up_medium_light_skin_tone" light_skin_tone"
    ":index_pointing_up_medium_skin_tone" 
    ":india" 
    ":indonesia" 
@@ -766,8 +766,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":japanese_“here”_button" 
    ":japanese_“monthly_amount”_button" 
    ":japanese_“no_vacancy”_button" 
-   ":japanese_“not_free_of_charge”_button" charge”_button"/>
-   ":japanese_“open_for_business”_button" button"/>
+   ":japanese_“not_free_of_charge”_button" charge”_button"
+   ":japanese_“open_for_business”_button" button"
    ":japanese_“passing_grade”_button" 
    ":japanese_“prohibited”_button" 
    ":japanese_“reserved”_button" 
@@ -834,8 +834,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":left_facing_fist" 
    ":left_facing_fist_dark_skin_tone" 
    ":left_facing_fist_light_skin_tone" 
-   ":left_facing_fist_medium_dark_skin_tone" skin_tone"/>
-   ":left_facing_fist_medium_light_skin_tone" _skin_tone"/>
+   ":left_facing_fist_medium_dark_skin_tone" skin_tone"
+   ":left_facing_fist_medium_light_skin_tone" _skin_tone"
    ":left_facing_fist_medium_skin_tone" 
    ":left_luggage" 
    ":left_right_arrow" 
@@ -891,8 +891,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_astronaut" 
    ":man_astronaut_dark_skin_tone" 
    ":man_astronaut_light_skin_tone" 
-   ":man_astronaut_medium_dark_skin_tone" skin_tone"/>
-   ":man_astronaut_medium_light_skin_tone" skin_tone"/>
+   ":man_astronaut_medium_dark_skin_tone" skin_tone"
+   ":man_astronaut_medium_light_skin_tone" skin_tone"
    ":man_astronaut_medium_skin_tone" 
    ":man_biking" 
    ":man_biking_dark_skin_tone" 
@@ -903,8 +903,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_bouncing_ball" 
    ":man_bouncing_ball_dark_skin_tone" 
    ":man_bouncing_ball_light_skin_tone" 
-   ":man_bouncing_ball_medium_dark_skin_tone" _skin_tone"/>
-   ":man_bouncing_ball_medium_light_skin_tone" light_skin_tone"/>
+   ":man_bouncing_ball_medium_dark_skin_tone" _skin_tone"
+   ":man_bouncing_ball_medium_light_skin_tone" light_skin_tone"
    ":man_bouncing_ball_medium_skin_tone" 
    ":man_bowing" 
    ":man_bowing_dark_skin_tone" 
@@ -915,15 +915,15 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_cartwheeling" 
    ":man_cartwheeling_dark_skin_tone" 
    ":man_cartwheeling_light_skin_tone" 
-   ":man_cartwheeling_medium_dark_skin_tone" skin_tone"/>
-   ":man_cartwheeling_medium_light_skin_tone" _skin_tone"/>
+   ":man_cartwheeling_medium_dark_skin_tone" skin_tone"
+   ":man_cartwheeling_medium_light_skin_tone" _skin_tone"
    ":man_cartwheeling_medium_skin_tone" 
    ":man_construction_worker" 
-   ":man_construction_worker_dark_skin_tone" skin_tone"/>
-   ":man_construction_worker_light_skin_tone" _skin_tone"/>
-   ":man_construction_worker_medium_dark_skin_tone" worker_medium_dark_skin_tone"/>
-   ":man_construction_worker_medium_light_skin_tone" construction_worker_medium_light_skin_tone"/>
-   ":man_construction_worker_medium_skin_tone" medium_skin_tone"/>
+   ":man_construction_worker_dark_skin_tone" skin_tone"
+   ":man_construction_worker_light_skin_tone" _skin_tone"
+   ":man_construction_worker_medium_dark_skin_tone" worker_medium_dark_skin_tone"
+   ":man_construction_worker_medium_light_skin_tone" construction_worker_medium_light_skin_tone"
+   ":man_construction_worker_medium_skin_tone" medium_skin_tone"
    ":man_cook" 
    ":man_cook_dark_skin_tone" 
    ":man_cook_light_skin_tone" 
@@ -940,21 +940,21 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_detective" 
    ":man_detective_dark_skin_tone" 
    ":man_detective_light_skin_tone" 
-   ":man_detective_medium_dark_skin_tone" skin_tone"/>
-   ":man_detective_medium_light_skin_tone" skin_tone"/>
+   ":man_detective_medium_dark_skin_tone" skin_tone"
+   ":man_detective_medium_light_skin_tone" skin_tone"
    ":man_detective_medium_skin_tone" 
    ":man_facepalming" 
    ":man_facepalming_dark_skin_tone" 
    ":man_facepalming_light_skin_tone" 
-   ":man_facepalming_medium_dark_skin_tone" skin_tone"/>
-   ":man_facepalming_medium_light_skin_tone" skin_tone"/>
+   ":man_facepalming_medium_dark_skin_tone" skin_tone"
+   ":man_facepalming_medium_light_skin_tone" skin_tone"
    ":man_facepalming_medium_skin_tone" 
    ":man_factory_worker" 
    ":man_factory_worker_dark_skin_tone" 
    ":man_factory_worker_light_skin_tone" 
-   ":man_factory_worker_medium_dark_skin_tone" dark_skin_tone"/>
-   ":man_factory_worker_medium_light_skin_tone" _light_skin_tone"/>
-   ":man_factory_worker_medium_skin_tone" skin_tone"/>
+   ":man_factory_worker_medium_dark_skin_tone" dark_skin_tone"
+   ":man_factory_worker_medium_light_skin_tone" _light_skin_tone"
+   ":man_factory_worker_medium_skin_tone" skin_tone"
    ":man_farmer" 
    ":man_farmer_dark_skin_tone" 
    ":man_farmer_light_skin_tone" 
@@ -964,39 +964,39 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_firefighter" 
    ":man_firefighter_dark_skin_tone" 
    ":man_firefighter_light_skin_tone" 
-   ":man_firefighter_medium_dark_skin_tone" skin_tone"/>
-   ":man_firefighter_medium_light_skin_tone" skin_tone"/>
+   ":man_firefighter_medium_dark_skin_tone" skin_tone"
+   ":man_firefighter_medium_light_skin_tone" skin_tone"
    ":man_firefighter_medium_skin_tone" 
    ":man_frowning" 
    ":man_frowning_dark_skin_tone" 
    ":man_frowning_light_skin_tone" 
    ":man_frowning_medium_dark_skin_tone" 
-   ":man_frowning_medium_light_skin_tone" skin_tone"/>
+   ":man_frowning_medium_light_skin_tone" skin_tone"
    ":man_frowning_medium_skin_tone" 
    ":man_gesturing_no" 
    ":man_gesturing_no_dark_skin_tone" 
    ":man_gesturing_no_light_skin_tone" 
-   ":man_gesturing_no_medium_dark_skin_tone" skin_tone"/>
-   ":man_gesturing_no_medium_light_skin_tone" _skin_tone"/>
+   ":man_gesturing_no_medium_dark_skin_tone" skin_tone"
+   ":man_gesturing_no_medium_light_skin_tone" _skin_tone"
    ":man_gesturing_no_medium_skin_tone" 
    ":man_gesturing_ok" 
    ":man_gesturing_ok_dark_skin_tone" 
    ":man_gesturing_ok_light_skin_tone" 
-   ":man_gesturing_ok_medium_dark_skin_tone" skin_tone"/>
-   ":man_gesturing_ok_medium_light_skin_tone" _skin_tone"/>
+   ":man_gesturing_ok_medium_dark_skin_tone" skin_tone"
+   ":man_gesturing_ok_medium_light_skin_tone" _skin_tone"
    ":man_gesturing_ok_medium_skin_tone" 
    ":man_getting_haircut" 
    ":man_getting_haircut_dark_skin_tone" 
-   ":man_getting_haircut_light_skin_tone" skin_tone"/>
-   ":man_getting_haircut_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":man_getting_haircut_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":man_getting_haircut_medium_skin_tone" skin_tone"/>
+   ":man_getting_haircut_light_skin_tone" skin_tone"
+   ":man_getting_haircut_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":man_getting_haircut_medium_light_skin_tone" medium_light_skin_tone"
+   ":man_getting_haircut_medium_skin_tone" skin_tone"
    ":man_getting_massage" 
    ":man_getting_massage_dark_skin_tone" 
-   ":man_getting_massage_light_skin_tone" skin_tone"/>
-   ":man_getting_massage_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":man_getting_massage_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":man_getting_massage_medium_skin_tone" skin_tone"/>
+   ":man_getting_massage_light_skin_tone" skin_tone"
+   ":man_getting_massage_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":man_getting_massage_medium_light_skin_tone" medium_light_skin_tone"
+   ":man_getting_massage_medium_skin_tone" skin_tone"
    ":man_golfing" 
    ":man_golfing_dark_skin_tone" 
    ":man_golfing_light_skin_tone" 
@@ -1012,20 +1012,20 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_health_worker" 
    ":man_health_worker_dark_skin_tone" 
    ":man_health_worker_light_skin_tone" 
-   ":man_health_worker_medium_dark_skin_tone" _skin_tone"/>
-   ":man_health_worker_medium_light_skin_tone" light_skin_tone"/>
+   ":man_health_worker_medium_dark_skin_tone" _skin_tone"
+   ":man_health_worker_medium_light_skin_tone" light_skin_tone"
    ":man_health_worker_medium_skin_tone" 
    ":man_in_suit_levitating" 
-   ":man_in_suit_levitating_dark_skin_tone" tone"/>
-   ":man_in_suit_levitating_light_skin_tone" skin_tone"/>
-   ":man_in_suit_levitating_medium_dark_skin_tone" levitating_medium_dark_skin_tone"/>
-   ":man_in_suit_levitating_medium_light_skin_tone" levitating_medium_light_skin_tone"/>
-   ":man_in_suit_levitating_medium_skin_tone" medium_skin_tone"/>
+   ":man_in_suit_levitating_dark_skin_tone" tone"
+   ":man_in_suit_levitating_light_skin_tone" skin_tone"
+   ":man_in_suit_levitating_medium_dark_skin_tone" levitating_medium_dark_skin_tone"
+   ":man_in_suit_levitating_medium_light_skin_tone" levitating_medium_light_skin_tone"
+   ":man_in_suit_levitating_medium_skin_tone" medium_skin_tone"
    ":man_in_tuxedo" 
    ":man_in_tuxedo_dark_skin_tone" 
    ":man_in_tuxedo_light_skin_tone" 
-   ":man_in_tuxedo_medium_dark_skin_tone" tone"/>
-   ":man_in_tuxedo_medium_light_skin_tone" tone"/>
+   ":man_in_tuxedo_medium_dark_skin_tone" tone"
+   ":man_in_tuxedo_medium_light_skin_tone" tone"
    ":man_in_tuxedo_medium_skin_tone" 
    ":man_judge" 
    ":man_judge_dark_skin_tone" 
@@ -1037,35 +1037,35 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_juggling_dark_skin_tone" 
    ":man_juggling_light_skin_tone" 
    ":man_juggling_medium_dark_skin_tone" 
-   ":man_juggling_medium_light_skin_tone" skin_tone"/>
+   ":man_juggling_medium_light_skin_tone" skin_tone"
    ":man_juggling_medium_skin_tone" 
    ":man_lifting_weights" 
    ":man_lifting_weights_dark_skin_tone" 
-   ":man_lifting_weights_light_skin_tone" skin_tone"/>
-   ":man_lifting_weights_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":man_lifting_weights_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":man_lifting_weights_medium_skin_tone" skin_tone"/>
+   ":man_lifting_weights_light_skin_tone" skin_tone"
+   ":man_lifting_weights_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":man_lifting_weights_medium_light_skin_tone" medium_light_skin_tone"
+   ":man_lifting_weights_medium_skin_tone" skin_tone"
    ":man_light_skin_tone" 
    ":man_mechanic" 
    ":man_mechanic_dark_skin_tone" 
    ":man_mechanic_light_skin_tone" 
    ":man_mechanic_medium_dark_skin_tone" 
-   ":man_mechanic_medium_light_skin_tone" skin_tone"/>
+   ":man_mechanic_medium_light_skin_tone" skin_tone"
    ":man_mechanic_medium_skin_tone" 
    ":man_medium_dark_skin_tone" 
    ":man_medium_light_skin_tone" 
    ":man_medium_skin_tone" 
    ":man_mountain_biking" 
    ":man_mountain_biking_dark_skin_tone" 
-   ":man_mountain_biking_light_skin_tone" skin_tone"/>
-   ":man_mountain_biking_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":man_mountain_biking_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":man_mountain_biking_medium_skin_tone" skin_tone"/>
+   ":man_mountain_biking_light_skin_tone" skin_tone"
+   ":man_mountain_biking_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":man_mountain_biking_medium_light_skin_tone" medium_light_skin_tone"
+   ":man_mountain_biking_medium_skin_tone" skin_tone"
    ":man_office_worker" 
    ":man_office_worker_dark_skin_tone" 
    ":man_office_worker_light_skin_tone" 
-   ":man_office_worker_medium_dark_skin_tone" dark_skin_tone"/>
-   ":man_office_worker_medium_light_skin_tone" light_skin_tone"/>
+   ":man_office_worker_medium_dark_skin_tone" dark_skin_tone"
+   ":man_office_worker_medium_light_skin_tone" light_skin_tone"
    ":man_office_worker_medium_skin_tone" 
    ":man_pilot" 
    ":man_pilot_dark_skin_tone" 
@@ -1074,23 +1074,23 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_pilot_medium_light_skin_tone" 
    ":man_pilot_medium_skin_tone" 
    ":man_playing_handball" 
-   ":man_playing_handball_dark_skin_tone" skin_tone"/>
-   ":man_playing_handball_light_skin_tone" skin_tone"/>
-   ":man_playing_handball_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":man_playing_handball_medium_light_skin_tone" _medium_light_skin_tone"/>
-   ":man_playing_handball_medium_skin_tone" skin_tone"/>
+   ":man_playing_handball_dark_skin_tone" skin_tone"
+   ":man_playing_handball_light_skin_tone" skin_tone"
+   ":man_playing_handball_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":man_playing_handball_medium_light_skin_tone" _medium_light_skin_tone"
+   ":man_playing_handball_medium_skin_tone" skin_tone"
    ":man_playing_water_polo" 
-   ":man_playing_water_polo_dark_skin_tone" _tone"/>
-   ":man_playing_water_polo_light_skin_tone" skin_tone"/>
-   ":man_playing_water_polo_medium_dark_skin_tone" polo_medium_dark_skin_tone"/>
-   ":man_playing_water_polo_medium_light_skin_tone" water_polo_medium_light_skin_tone"/>
-   ":man_playing_water_polo_medium_skin_tone" medium_skin_tone"/>
+   ":man_playing_water_polo_dark_skin_tone" _tone"
+   ":man_playing_water_polo_light_skin_tone" skin_tone"
+   ":man_playing_water_polo_medium_dark_skin_tone" polo_medium_dark_skin_tone"
+   ":man_playing_water_polo_medium_light_skin_tone" water_polo_medium_light_skin_tone"
+   ":man_playing_water_polo_medium_skin_tone" medium_skin_tone"
    ":man_police_officer" 
    ":man_police_officer_dark_skin_tone" 
    ":man_police_officer_light_skin_tone" 
-   ":man_police_officer_medium_dark_skin_tone" dark_skin_tone"/>
-   ":man_police_officer_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":man_police_officer_medium_skin_tone" skin_tone"/>
+   ":man_police_officer_medium_dark_skin_tone" dark_skin_tone"
+   ":man_police_officer_medium_light_skin_tone" medium_light_skin_tone"
+   ":man_police_officer_medium_skin_tone" skin_tone"
    ":man_pouting" 
    ":man_pouting_dark_skin_tone" 
    ":man_pouting_light_skin_tone" 
@@ -1100,14 +1100,14 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_raising_hand" 
    ":man_raising_hand_dark_skin_tone" 
    ":man_raising_hand_light_skin_tone" 
-   ":man_raising_hand_medium_dark_skin_tone" skin_tone"/>
-   ":man_raising_hand_medium_light_skin_tone" light_skin_tone"/>
+   ":man_raising_hand_medium_dark_skin_tone" skin_tone"
+   ":man_raising_hand_medium_light_skin_tone" light_skin_tone"
    ":man_raising_hand_medium_skin_tone" 
    ":man_rowing_boat" 
    ":man_rowing_boat_dark_skin_tone" 
    ":man_rowing_boat_light_skin_tone" 
-   ":man_rowing_boat_medium_dark_skin_tone" _tone"/>
-   ":man_rowing_boat_medium_light_skin_tone" skin_tone"/>
+   ":man_rowing_boat_medium_dark_skin_tone" _tone"
+   ":man_rowing_boat_medium_light_skin_tone" skin_tone"
    ":man_rowing_boat_medium_skin_tone" 
    ":man_running" 
    ":man_running_dark_skin_tone" 
@@ -1118,14 +1118,14 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_scientist" 
    ":man_scientist_dark_skin_tone" 
    ":man_scientist_light_skin_tone" 
-   ":man_scientist_medium_dark_skin_tone" skin_tone"/>
-   ":man_scientist_medium_light_skin_tone" skin_tone"/>
+   ":man_scientist_medium_dark_skin_tone" skin_tone"
+   ":man_scientist_medium_light_skin_tone" skin_tone"
    ":man_scientist_medium_skin_tone" 
    ":man_shrugging" 
    ":man_shrugging_dark_skin_tone" 
    ":man_shrugging_light_skin_tone" 
-   ":man_shrugging_medium_dark_skin_tone" skin_tone"/>
-   ":man_shrugging_medium_light_skin_tone" skin_tone"/>
+   ":man_shrugging_medium_dark_skin_tone" skin_tone"
+   ":man_shrugging_medium_light_skin_tone" skin_tone"
    ":man_shrugging_medium_skin_tone" 
    ":man_singer" 
    ":man_singer_dark_skin_tone" 
@@ -1149,7 +1149,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_swimming_dark_skin_tone" 
    ":man_swimming_light_skin_tone" 
    ":man_swimming_medium_dark_skin_tone" 
-   ":man_swimming_medium_light_skin_tone" skin_tone"/>
+   ":man_swimming_medium_light_skin_tone" skin_tone"
    ":man_swimming_medium_skin_tone" 
    ":man_teacher" 
    ":man_teacher_dark_skin_tone" 
@@ -1160,14 +1160,14 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_technologist" 
    ":man_technologist_dark_skin_tone" 
    ":man_technologist_light_skin_tone" 
-   ":man_technologist_medium_dark_skin_tone" skin_tone"/>
-   ":man_technologist_medium_light_skin_tone" light_skin_tone"/>
+   ":man_technologist_medium_dark_skin_tone" skin_tone"
+   ":man_technologist_medium_light_skin_tone" light_skin_tone"
    ":man_technologist_medium_skin_tone" 
    ":man_tipping_hand" 
    ":man_tipping_hand_dark_skin_tone" 
    ":man_tipping_hand_light_skin_tone" 
-   ":man_tipping_hand_medium_dark_skin_tone" skin_tone"/>
-   ":man_tipping_hand_medium_light_skin_tone" light_skin_tone"/>
+   ":man_tipping_hand_medium_dark_skin_tone" skin_tone"
+   ":man_tipping_hand_medium_light_skin_tone" light_skin_tone"
    ":man_tipping_hand_medium_skin_tone" 
    ":man_walking" 
    ":man_walking_dark_skin_tone" 
@@ -1178,15 +1178,15 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":man_wearing_turban" 
    ":man_wearing_turban_dark_skin_tone" 
    ":man_wearing_turban_light_skin_tone" 
-   ":man_wearing_turban_medium_dark_skin_tone" dark_skin_tone"/>
-   ":man_wearing_turban_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":man_wearing_turban_medium_skin_tone" skin_tone"/>
+   ":man_wearing_turban_medium_dark_skin_tone" dark_skin_tone"
+   ":man_wearing_turban_medium_light_skin_tone" medium_light_skin_tone"
+   ":man_wearing_turban_medium_skin_tone" skin_tone"
    ":man_with_chinese_cap" 
-   ":man_with_chinese_cap_dark_skin_tone" tone"/>
-   ":man_with_chinese_cap_light_skin_tone" tone"/>
-   ":man_with_chinese_cap_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":man_with_chinese_cap_medium_light_skin_tone" _medium_light_skin_tone"/>
-   ":man_with_chinese_cap_medium_skin_tone" _tone"/>
+   ":man_with_chinese_cap_dark_skin_tone" tone"
+   ":man_with_chinese_cap_light_skin_tone" tone"
+   ":man_with_chinese_cap_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":man_with_chinese_cap_medium_light_skin_tone" _medium_light_skin_tone"
+   ":man_with_chinese_cap_medium_skin_tone" _tone"
    ":mantelpiece_clock" 
    ":man’s_shoe" 
    ":map_of_japan" 
@@ -1214,8 +1214,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":middle_finger" 
    ":middle_finger_dark_skin_tone" 
    ":middle_finger_light_skin_tone" 
-   ":middle_finger_medium_dark_skin_tone" skin_tone"/>
-   ":middle_finger_medium_light_skin_tone" skin_tone"/>
+   ":middle_finger_medium_dark_skin_tone" skin_tone"
+   ":middle_finger_medium_light_skin_tone" skin_tone"
    ":middle_finger_medium_skin_tone" 
    ":military_medal" 
    ":milky_way" 
@@ -1350,8 +1350,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":oncoming_fist" 
    ":oncoming_fist_dark_skin_tone" 
    ":oncoming_fist_light_skin_tone" 
-   ":oncoming_fist_medium_dark_skin_tone" skin_tone"/>
-   ":oncoming_fist_medium_light_skin_tone" skin_tone"/>
+   ":oncoming_fist_medium_dark_skin_tone" skin_tone"
+   ":oncoming_fist_medium_light_skin_tone" skin_tone"
    ":oncoming_fist_medium_skin_tone" 
    ":oncoming_police_car" 
    ":oncoming_taxi" 
@@ -1411,167 +1411,167 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":person_biking" 
    ":person_biking_dark_skin_tone" 
    ":person_biking_light_skin_tone" 
-   ":person_biking_medium_dark_skin_tone" skin_tone"/>
-   ":person_biking_medium_light_skin_tone" skin_tone"/>
+   ":person_biking_medium_dark_skin_tone" skin_tone"
+   ":person_biking_medium_light_skin_tone" skin_tone"
    ":person_biking_medium_skin_tone" 
    ":person_bouncing_ball" 
-   ":person_bouncing_ball_dark_skin_tone" skin_tone"/>
-   ":person_bouncing_ball_light_skin_tone" skin_tone"/>
-   ":person_bouncing_ball_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":person_bouncing_ball_medium_light_skin_tone" _medium_light_skin_tone"/>
-   ":person_bouncing_ball_medium_skin_tone" skin_tone"/>
+   ":person_bouncing_ball_dark_skin_tone" skin_tone"
+   ":person_bouncing_ball_light_skin_tone" skin_tone"
+   ":person_bouncing_ball_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":person_bouncing_ball_medium_light_skin_tone" _medium_light_skin_tone"
+   ":person_bouncing_ball_medium_skin_tone" skin_tone"
    ":person_bowing" 
    ":person_bowing_dark_skin_tone" 
    ":person_bowing_light_skin_tone" 
-   ":person_bowing_medium_dark_skin_tone" skin_tone"/>
-   ":person_bowing_medium_light_skin_tone" skin_tone"/>
+   ":person_bowing_medium_dark_skin_tone" skin_tone"
+   ":person_bowing_medium_light_skin_tone" skin_tone"
    ":person_bowing_medium_skin_tone" 
    ":person_cartwheeling" 
    ":person_cartwheeling_dark_skin_tone" 
-   ":person_cartwheeling_light_skin_tone" tone"/>
-   ":person_cartwheeling_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":person_cartwheeling_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_cartwheeling_medium_skin_tone" tone"/>
+   ":person_cartwheeling_light_skin_tone" tone"
+   ":person_cartwheeling_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":person_cartwheeling_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_cartwheeling_medium_skin_tone" tone"
    ":person_facepalming" 
    ":person_facepalming_dark_skin_tone" 
    ":person_facepalming_light_skin_tone" 
-   ":person_facepalming_medium_dark_skin_tone" dark_skin_tone"/>
-   ":person_facepalming_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_facepalming_medium_skin_tone" tone"/>
+   ":person_facepalming_medium_dark_skin_tone" dark_skin_tone"
+   ":person_facepalming_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_facepalming_medium_skin_tone" tone"
    ":person_fencing" 
    ":person_frowning" 
    ":person_frowning_dark_skin_tone" 
    ":person_frowning_light_skin_tone" 
-   ":person_frowning_medium_dark_skin_tone" skin_tone"/>
-   ":person_frowning_medium_light_skin_tone" skin_tone"/>
+   ":person_frowning_medium_dark_skin_tone" skin_tone"
+   ":person_frowning_medium_light_skin_tone" skin_tone"
    ":person_frowning_medium_skin_tone" 
    ":person_gesturing_no" 
    ":person_gesturing_no_dark_skin_tone" 
-   ":person_gesturing_no_light_skin_tone" skin_tone"/>
-   ":person_gesturing_no_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":person_gesturing_no_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_gesturing_no_medium_skin_tone" skin_tone"/>
+   ":person_gesturing_no_light_skin_tone" skin_tone"
+   ":person_gesturing_no_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":person_gesturing_no_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_gesturing_no_medium_skin_tone" skin_tone"
    ":person_gesturing_ok" 
    ":person_gesturing_ok_dark_skin_tone" 
-   ":person_gesturing_ok_light_skin_tone" skin_tone"/>
-   ":person_gesturing_ok_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":person_gesturing_ok_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_gesturing_ok_medium_skin_tone" skin_tone"/>
+   ":person_gesturing_ok_light_skin_tone" skin_tone"
+   ":person_gesturing_ok_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":person_gesturing_ok_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_gesturing_ok_medium_skin_tone" skin_tone"
    ":person_getting_haircut" 
-   ":person_getting_haircut_dark_skin_tone" skin_tone"/>
-   ":person_getting_haircut_light_skin_tone" skin_tone"/>
-   ":person_getting_haircut_medium_dark_skin_tone" haircut_medium_dark_skin_tone"/>
-   ":person_getting_haircut_medium_light_skin_tone" haircut_medium_light_skin_tone"/>
-   ":person_getting_haircut_medium_skin_tone" medium_skin_tone"/>
+   ":person_getting_haircut_dark_skin_tone" skin_tone"
+   ":person_getting_haircut_light_skin_tone" skin_tone"
+   ":person_getting_haircut_medium_dark_skin_tone" haircut_medium_dark_skin_tone"
+   ":person_getting_haircut_medium_light_skin_tone" haircut_medium_light_skin_tone"
+   ":person_getting_haircut_medium_skin_tone" medium_skin_tone"
    ":person_getting_massage" 
-   ":person_getting_massage_dark_skin_tone" skin_tone"/>
-   ":person_getting_massage_light_skin_tone" skin_tone"/>
-   ":person_getting_massage_medium_dark_skin_tone" massage_medium_dark_skin_tone"/>
-   ":person_getting_massage_medium_light_skin_tone" massage_medium_light_skin_tone"/>
-   ":person_getting_massage_medium_skin_tone" medium_skin_tone"/>
+   ":person_getting_massage_dark_skin_tone" skin_tone"
+   ":person_getting_massage_light_skin_tone" skin_tone"
+   ":person_getting_massage_medium_dark_skin_tone" massage_medium_dark_skin_tone"
+   ":person_getting_massage_medium_light_skin_tone" massage_medium_light_skin_tone"
+   ":person_getting_massage_medium_skin_tone" medium_skin_tone"
    ":person_golfing" 
    ":person_golfing_dark_skin_tone" 
    ":person_golfing_light_skin_tone" 
-   ":person_golfing_medium_dark_skin_tone" skin_tone"/>
-   ":person_golfing_medium_light_skin_tone" skin_tone"/>
+   ":person_golfing_medium_dark_skin_tone" skin_tone"
+   ":person_golfing_medium_light_skin_tone" skin_tone"
    ":person_golfing_medium_skin_tone" 
    ":person_in_bed" 
    ":person_juggling" 
    ":person_juggling_dark_skin_tone" 
    ":person_juggling_light_skin_tone" 
-   ":person_juggling_medium_dark_skin_tone" skin_tone"/>
-   ":person_juggling_medium_light_skin_tone" skin_tone"/>
+   ":person_juggling_medium_dark_skin_tone" skin_tone"
+   ":person_juggling_medium_light_skin_tone" skin_tone"
    ":person_juggling_medium_skin_tone" 
    ":person_lifting_weights" 
-   ":person_lifting_weights_dark_skin_tone" skin_tone"/>
-   ":person_lifting_weights_light_skin_tone" skin_tone"/>
-   ":person_lifting_weights_medium_dark_skin_tone" weights_medium_dark_skin_tone"/>
-   ":person_lifting_weights_medium_light_skin_tone" weights_medium_light_skin_tone"/>
-   ":person_lifting_weights_medium_skin_tone" medium_skin_tone"/>
+   ":person_lifting_weights_dark_skin_tone" skin_tone"
+   ":person_lifting_weights_light_skin_tone" skin_tone"
+   ":person_lifting_weights_medium_dark_skin_tone" weights_medium_dark_skin_tone"
+   ":person_lifting_weights_medium_light_skin_tone" weights_medium_light_skin_tone"
+   ":person_lifting_weights_medium_skin_tone" medium_skin_tone"
    ":person_mountain_biking" 
-   ":person_mountain_biking_dark_skin_tone" skin_tone"/>
-   ":person_mountain_biking_light_skin_tone" skin_tone"/>
-   ":person_mountain_biking_medium_dark_skin_tone" biking_medium_dark_skin_tone"/>
-   ":person_mountain_biking_medium_light_skin_tone" biking_medium_light_skin_tone"/>
-   ":person_mountain_biking_medium_skin_tone" medium_skin_tone"/>
+   ":person_mountain_biking_dark_skin_tone" skin_tone"
+   ":person_mountain_biking_light_skin_tone" skin_tone"
+   ":person_mountain_biking_medium_dark_skin_tone" biking_medium_dark_skin_tone"
+   ":person_mountain_biking_medium_light_skin_tone" biking_medium_light_skin_tone"
+   ":person_mountain_biking_medium_skin_tone" medium_skin_tone"
    ":person_playing_handball" 
-   ":person_playing_handball_dark_skin_tone" skin_tone"/>
-   ":person_playing_handball_light_skin_tone" light_skin_tone"/>
-   ":person_playing_handball_medium_dark_skin_tone" handball_medium_dark_skin_tone"/>
-   ":person_playing_handball_medium_light_skin_tone" _handball_medium_light_skin_tone"/>
-   ":person_playing_handball_medium_skin_tone" medium_skin_tone"/>
+   ":person_playing_handball_dark_skin_tone" skin_tone"
+   ":person_playing_handball_light_skin_tone" light_skin_tone"
+   ":person_playing_handball_medium_dark_skin_tone" handball_medium_dark_skin_tone"
+   ":person_playing_handball_medium_light_skin_tone" _handball_medium_light_skin_tone"
+   ":person_playing_handball_medium_skin_tone" medium_skin_tone"
    ":person_playing_water_polo" 
-   ":person_playing_water_polo_dark_skin_tone" dark_skin_tone"/>
-   ":person_playing_water_polo_light_skin_tone" polo_light_skin_tone"/>
-   ":person_playing_water_polo_medium_dark_skin_tone" playing_water_polo_medium_dark_skin_tone"/>
-   ":person_playing_water_polo_medium_light_skin_tone" playing_water_polo_medium_light_skin_tone"/>
-   ":person_playing_water_polo_medium_skin_tone" polo_medium_skin_tone"/>
+   ":person_playing_water_polo_dark_skin_tone" dark_skin_tone"
+   ":person_playing_water_polo_light_skin_tone" polo_light_skin_tone"
+   ":person_playing_water_polo_medium_dark_skin_tone" playing_water_polo_medium_dark_skin_tone"
+   ":person_playing_water_polo_medium_light_skin_tone" playing_water_polo_medium_light_skin_tone"
+   ":person_playing_water_polo_medium_skin_tone" polo_medium_skin_tone"
    ":person_pouting" 
    ":person_pouting_dark_skin_tone" 
    ":person_pouting_light_skin_tone" 
-   ":person_pouting_medium_dark_skin_tone" skin_tone"/>
-   ":person_pouting_medium_light_skin_tone" skin_tone"/>
+   ":person_pouting_medium_dark_skin_tone" skin_tone"
+   ":person_pouting_medium_light_skin_tone" skin_tone"
    ":person_pouting_medium_skin_tone" 
    ":person_raising_hand" 
    ":person_raising_hand_dark_skin_tone" 
-   ":person_raising_hand_light_skin_tone" skin_tone"/>
-   ":person_raising_hand_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":person_raising_hand_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_raising_hand_medium_skin_tone" skin_tone"/>
+   ":person_raising_hand_light_skin_tone" skin_tone"
+   ":person_raising_hand_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":person_raising_hand_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_raising_hand_medium_skin_tone" skin_tone"
    ":person_rowing_boat" 
    ":person_rowing_boat_dark_skin_tone" 
    ":person_rowing_boat_light_skin_tone" 
-   ":person_rowing_boat_medium_dark_skin_tone" dark_skin_tone"/>
-   ":person_rowing_boat_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_rowing_boat_medium_skin_tone" skin_tone"/>
+   ":person_rowing_boat_medium_dark_skin_tone" dark_skin_tone"
+   ":person_rowing_boat_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_rowing_boat_medium_skin_tone" skin_tone"
    ":person_running" 
    ":person_running_dark_skin_tone" 
    ":person_running_light_skin_tone" 
-   ":person_running_medium_dark_skin_tone" skin_tone"/>
-   ":person_running_medium_light_skin_tone" skin_tone"/>
+   ":person_running_medium_dark_skin_tone" skin_tone"
+   ":person_running_medium_light_skin_tone" skin_tone"
    ":person_running_medium_skin_tone" 
    ":person_shrugging" 
    ":person_shrugging_dark_skin_tone" 
    ":person_shrugging_light_skin_tone" 
-   ":person_shrugging_medium_dark_skin_tone" skin_tone"/>
-   ":person_shrugging_medium_light_skin_tone" light_skin_tone"/>
+   ":person_shrugging_medium_dark_skin_tone" skin_tone"
+   ":person_shrugging_medium_light_skin_tone" light_skin_tone"
    ":person_shrugging_medium_skin_tone" 
    ":person_surfing" 
    ":person_surfing_dark_skin_tone" 
    ":person_surfing_light_skin_tone" 
-   ":person_surfing_medium_dark_skin_tone" skin_tone"/>
-   ":person_surfing_medium_light_skin_tone" skin_tone"/>
+   ":person_surfing_medium_dark_skin_tone" skin_tone"
+   ":person_surfing_medium_light_skin_tone" skin_tone"
    ":person_surfing_medium_skin_tone" 
    ":person_swimming" 
    ":person_swimming_dark_skin_tone" 
    ":person_swimming_light_skin_tone" 
-   ":person_swimming_medium_dark_skin_tone" skin_tone"/>
-   ":person_swimming_medium_light_skin_tone" skin_tone"/>
+   ":person_swimming_medium_dark_skin_tone" skin_tone"
+   ":person_swimming_medium_light_skin_tone" skin_tone"
    ":person_swimming_medium_skin_tone" 
    ":person_taking_bath" 
    ":person_taking_bath_dark_skin_tone" 
    ":person_taking_bath_light_skin_tone" 
-   ":person_taking_bath_medium_dark_skin_tone" dark_skin_tone"/>
-   ":person_taking_bath_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_taking_bath_medium_skin_tone" skin_tone"/>
+   ":person_taking_bath_medium_dark_skin_tone" dark_skin_tone"
+   ":person_taking_bath_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_taking_bath_medium_skin_tone" skin_tone"
    ":person_tipping_hand" 
    ":person_tipping_hand_dark_skin_tone" 
-   ":person_tipping_hand_light_skin_tone" skin_tone"/>
-   ":person_tipping_hand_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":person_tipping_hand_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":person_tipping_hand_medium_skin_tone" skin_tone"/>
+   ":person_tipping_hand_light_skin_tone" skin_tone"
+   ":person_tipping_hand_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":person_tipping_hand_medium_light_skin_tone" medium_light_skin_tone"
+   ":person_tipping_hand_medium_skin_tone" skin_tone"
    ":person_walking" 
    ":person_walking_dark_skin_tone" 
    ":person_walking_light_skin_tone" 
-   ":person_walking_medium_dark_skin_tone" skin_tone"/>
-   ":person_walking_medium_light_skin_tone" skin_tone"/>
+   ":person_walking_medium_dark_skin_tone" skin_tone"
+   ":person_walking_medium_light_skin_tone" skin_tone"
    ":person_walking_medium_skin_tone" 
    ":person_wearing_turban" 
-   ":person_wearing_turban_dark_skin_tone" skin_tone"/>
-   ":person_wearing_turban_light_skin_tone" skin_tone"/>
-   ":person_wearing_turban_medium_dark_skin_tone" turban_medium_dark_skin_tone"/>
-   ":person_wearing_turban_medium_light_skin_tone" turban_medium_light_skin_tone"/>
-   ":person_wearing_turban_medium_skin_tone" skin_tone"/>
+   ":person_wearing_turban_dark_skin_tone" skin_tone"
+   ":person_wearing_turban_light_skin_tone" skin_tone"
+   ":person_wearing_turban_medium_dark_skin_tone" turban_medium_dark_skin_tone"
+   ":person_wearing_turban_medium_light_skin_tone" turban_medium_light_skin_tone"
+   ":person_wearing_turban_medium_skin_tone" skin_tone"
    ":peru" 
    ":philippines" 
    ":pick" 
@@ -1596,8 +1596,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":police_officer" 
    ":police_officer_dark_skin_tone" 
    ":police_officer_light_skin_tone" 
-   ":police_officer_medium_dark_skin_tone" skin_tone"/>
-   ":police_officer_medium_light_skin_tone" skin_tone"/>
+   ":police_officer_medium_dark_skin_tone" skin_tone"
+   ":police_officer_medium_light_skin_tone" skin_tone"
    ":police_officer_medium_skin_tone" 
    ":poodle" 
    ":pool_8_ball" 
@@ -1617,8 +1617,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":pregnant_woman" 
    ":pregnant_woman_dark_skin_tone" 
    ":pregnant_woman_light_skin_tone" 
-   ":pregnant_woman_medium_dark_skin_tone" skin_tone"/>
-   ":pregnant_woman_medium_light_skin_tone" skin_tone"/>
+   ":pregnant_woman_medium_dark_skin_tone" skin_tone"
+   ":pregnant_woman_medium_light_skin_tone" skin_tone"
    ":pregnant_woman_medium_skin_tone" 
    ":prince" 
    ":prince_dark_skin_tone" 
@@ -1652,10 +1652,10 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":rainbow_flag" 
    ":raised_back_of_hand" 
    ":raised_back_of_hand_dark_skin_tone" 
-   ":raised_back_of_hand_light_skin_tone" tone"/>
-   ":raised_back_of_hand_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":raised_back_of_hand_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":raised_back_of_hand_medium_skin_tone" tone"/>
+   ":raised_back_of_hand_light_skin_tone" tone"
+   ":raised_back_of_hand_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":raised_back_of_hand_medium_light_skin_tone" medium_light_skin_tone"
+   ":raised_back_of_hand_medium_skin_tone" tone"
    ":raised_fist" 
    ":raised_fist_dark_skin_tone" 
    ":raised_fist_light_skin_tone" 
@@ -1671,8 +1671,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":raising_hands" 
    ":raising_hands_dark_skin_tone" 
    ":raising_hands_light_skin_tone" 
-   ":raising_hands_medium_dark_skin_tone" skin_tone"/>
-   ":raising_hands_medium_light_skin_tone" skin_tone"/>
+   ":raising_hands_medium_dark_skin_tone" skin_tone"
+   ":raising_hands_medium_light_skin_tone" skin_tone"
    ":raising_hands_medium_skin_tone" 
    ":ram" 
    ":rat" 
@@ -1706,8 +1706,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":right_facing_fist" 
    ":right_facing_fist_dark_skin_tone" 
    ":right_facing_fist_light_skin_tone" 
-   ":right_facing_fist_medium_dark_skin_tone" dark_skin_tone"/>
-   ":right_facing_fist_medium_light_skin_tone" light_skin_tone"/>
+   ":right_facing_fist_medium_dark_skin_tone" dark_skin_tone"
+   ":right_facing_fist_medium_light_skin_tone" light_skin_tone"
    ":right_facing_fist_medium_skin_tone" 
    ":ring" 
    ":roasted_sweet_potato" 
@@ -1782,8 +1782,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":sign_of_the_horns" 
    ":sign_of_the_horns_dark_skin_tone" 
    ":sign_of_the_horns_light_skin_tone" 
-   ":sign_of_the_horns_medium_dark_skin_tone" dark_skin_tone"/>
-   ":sign_of_the_horns_medium_light_skin_tone" light_skin_tone"/>
+   ":sign_of_the_horns_medium_dark_skin_tone" dark_skin_tone"
+   ":sign_of_the_horns_medium_light_skin_tone" light_skin_tone"
    ":sign_of_the_horns_medium_skin_tone" 
    ":singapore" 
    ":sint_maarten" 
@@ -1826,7 +1826,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":soon_arrow" 
    ":sos_button" 
    ":south_africa" 
-   ":south_georgia__south_sandwich_islands" islands"/>
+   ":south_georgia__south_sandwich_islands" islands"
    ":south_korea" 
    ":south_sudan" 
    ":spade_suit" 
@@ -2013,7 +2013,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":victory_hand_dark_skin_tone" 
    ":victory_hand_light_skin_tone" 
    ":victory_hand_medium_dark_skin_tone" 
-   ":victory_hand_medium_light_skin_tone" skin_tone"/>
+   ":victory_hand_medium_light_skin_tone" skin_tone"
    ":victory_hand_medium_skin_tone" 
    ":video_camera" 
    ":video_game" 
@@ -2027,8 +2027,8 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":vulcan_salute" 
    ":vulcan_salute_dark_skin_tone" 
    ":vulcan_salute_light_skin_tone" 
-   ":vulcan_salute_medium_dark_skin_tone" skin_tone"/>
-   ":vulcan_salute_medium_light_skin_tone" skin_tone"/>
+   ":vulcan_salute_medium_dark_skin_tone" skin_tone"
+   ":vulcan_salute_medium_light_skin_tone" skin_tone"
    ":vulcan_salute_medium_skin_tone" 
    ":wallis__futuna" 
    ":waning_crescent_moon" 
@@ -2080,44 +2080,44 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":woman_artist_dark_skin_tone" 
    ":woman_artist_light_skin_tone" 
    ":woman_artist_medium_dark_skin_tone" 
-   ":woman_artist_medium_light_skin_tone" skin_tone"/>
+   ":woman_artist_medium_light_skin_tone" skin_tone"
    ":woman_artist_medium_skin_tone" 
    ":woman_astronaut" 
    ":woman_astronaut_dark_skin_tone" 
    ":woman_astronaut_light_skin_tone" 
-   ":woman_astronaut_medium_dark_skin_tone" skin_tone"/>
-   ":woman_astronaut_medium_light_skin_tone" skin_tone"/>
+   ":woman_astronaut_medium_dark_skin_tone" skin_tone"
+   ":woman_astronaut_medium_light_skin_tone" skin_tone"
    ":woman_astronaut_medium_skin_tone" 
    ":woman_biking" 
    ":woman_biking_dark_skin_tone" 
    ":woman_biking_light_skin_tone" 
    ":woman_biking_medium_dark_skin_tone" 
-   ":woman_biking_medium_light_skin_tone" skin_tone"/>
+   ":woman_biking_medium_light_skin_tone" skin_tone"
    ":woman_biking_medium_skin_tone" 
    ":woman_bouncing_ball" 
    ":woman_bouncing_ball_dark_skin_tone" 
-   ":woman_bouncing_ball_light_skin_tone" skin_tone"/>
-   ":woman_bouncing_ball_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":woman_bouncing_ball_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_bouncing_ball_medium_skin_tone" skin_tone"/>
+   ":woman_bouncing_ball_light_skin_tone" skin_tone"
+   ":woman_bouncing_ball_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":woman_bouncing_ball_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_bouncing_ball_medium_skin_tone" skin_tone"
    ":woman_bowing" 
    ":woman_bowing_dark_skin_tone" 
    ":woman_bowing_light_skin_tone" 
    ":woman_bowing_medium_dark_skin_tone" 
-   ":woman_bowing_medium_light_skin_tone" skin_tone"/>
+   ":woman_bowing_medium_light_skin_tone" skin_tone"
    ":woman_bowing_medium_skin_tone" 
    ":woman_cartwheeling" 
    ":woman_cartwheeling_dark_skin_tone" 
    ":woman_cartwheeling_light_skin_tone" 
-   ":woman_cartwheeling_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_cartwheeling_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_cartwheeling_medium_skin_tone" tone"/>
+   ":woman_cartwheeling_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_cartwheeling_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_cartwheeling_medium_skin_tone" tone"
    ":woman_construction_worker" 
-   ":woman_construction_worker_dark_skin_tone" dark_skin_tone"/>
-   ":woman_construction_worker_light_skin_tone" worker_light_skin_tone"/>
-   ":woman_construction_worker_medium_dark_skin_tone" construction_worker_medium_dark_skin_tone"/>
-   ":woman_construction_worker_medium_light_skin_tone" construction_worker_medium_light_skin_tone"/>
-   ":woman_construction_worker_medium_skin_tone" worker_medium_skin_tone"/>
+   ":woman_construction_worker_dark_skin_tone" dark_skin_tone"
+   ":woman_construction_worker_light_skin_tone" worker_light_skin_tone"
+   ":woman_construction_worker_medium_dark_skin_tone" construction_worker_medium_dark_skin_tone"
+   ":woman_construction_worker_medium_light_skin_tone" construction_worker_medium_light_skin_tone"
+   ":woman_construction_worker_medium_skin_tone" worker_medium_skin_tone"
    ":woman_cook" 
    ":woman_cook_dark_skin_tone" 
    ":woman_cook_light_skin_tone" 
@@ -2127,75 +2127,75 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":woman_dancing" 
    ":woman_dancing_dark_skin_tone" 
    ":woman_dancing_light_skin_tone" 
-   ":woman_dancing_medium_dark_skin_tone" skin_tone"/>
-   ":woman_dancing_medium_light_skin_tone" skin_tone"/>
+   ":woman_dancing_medium_dark_skin_tone" skin_tone"
+   ":woman_dancing_medium_light_skin_tone" skin_tone"
    ":woman_dancing_medium_skin_tone" 
    ":woman_dark_skin_tone" 
    ":woman_detective" 
    ":woman_detective_dark_skin_tone" 
    ":woman_detective_light_skin_tone" 
-   ":woman_detective_medium_dark_skin_tone" skin_tone"/>
-   ":woman_detective_medium_light_skin_tone" skin_tone"/>
+   ":woman_detective_medium_dark_skin_tone" skin_tone"
+   ":woman_detective_medium_light_skin_tone" skin_tone"
    ":woman_detective_medium_skin_tone" 
    ":woman_facepalming" 
    ":woman_facepalming_dark_skin_tone" 
    ":woman_facepalming_light_skin_tone" 
-   ":woman_facepalming_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_facepalming_medium_light_skin_tone" light_skin_tone"/>
+   ":woman_facepalming_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_facepalming_medium_light_skin_tone" light_skin_tone"
    ":woman_facepalming_medium_skin_tone" 
    ":woman_factory_worker" 
-   ":woman_factory_worker_dark_skin_tone" skin_tone"/>
-   ":woman_factory_worker_light_skin_tone" skin_tone"/>
-   ":woman_factory_worker_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":woman_factory_worker_medium_light_skin_tone" _medium_light_skin_tone"/>
-   ":woman_factory_worker_medium_skin_tone" skin_tone"/>
+   ":woman_factory_worker_dark_skin_tone" skin_tone"
+   ":woman_factory_worker_light_skin_tone" skin_tone"
+   ":woman_factory_worker_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":woman_factory_worker_medium_light_skin_tone" _medium_light_skin_tone"
+   ":woman_factory_worker_medium_skin_tone" skin_tone"
    ":woman_farmer" 
    ":woman_farmer_dark_skin_tone" 
    ":woman_farmer_light_skin_tone" 
    ":woman_farmer_medium_dark_skin_tone" 
-   ":woman_farmer_medium_light_skin_tone" skin_tone"/>
+   ":woman_farmer_medium_light_skin_tone" skin_tone"
    ":woman_farmer_medium_skin_tone" 
    ":woman_firefighter" 
    ":woman_firefighter_dark_skin_tone" 
    ":woman_firefighter_light_skin_tone" 
-   ":woman_firefighter_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_firefighter_medium_light_skin_tone" light_skin_tone"/>
+   ":woman_firefighter_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_firefighter_medium_light_skin_tone" light_skin_tone"
    ":woman_firefighter_medium_skin_tone" 
    ":woman_frowning" 
    ":woman_frowning_dark_skin_tone" 
    ":woman_frowning_light_skin_tone" 
-   ":woman_frowning_medium_dark_skin_tone" skin_tone"/>
-   ":woman_frowning_medium_light_skin_tone" skin_tone"/>
+   ":woman_frowning_medium_dark_skin_tone" skin_tone"
+   ":woman_frowning_medium_light_skin_tone" skin_tone"
    ":woman_frowning_medium_skin_tone" 
    ":woman_gesturing_no" 
    ":woman_gesturing_no_dark_skin_tone" 
    ":woman_gesturing_no_light_skin_tone" 
-   ":woman_gesturing_no_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_gesturing_no_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_gesturing_no_medium_skin_tone" skin_tone"/>
+   ":woman_gesturing_no_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_gesturing_no_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_gesturing_no_medium_skin_tone" skin_tone"
    ":woman_gesturing_ok" 
    ":woman_gesturing_ok_dark_skin_tone" 
    ":woman_gesturing_ok_light_skin_tone" 
-   ":woman_gesturing_ok_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_gesturing_ok_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_gesturing_ok_medium_skin_tone" skin_tone"/>
+   ":woman_gesturing_ok_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_gesturing_ok_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_gesturing_ok_medium_skin_tone" skin_tone"
    ":woman_getting_haircut" 
-   ":woman_getting_haircut_dark_skin_tone" skin_tone"/>
-   ":woman_getting_haircut_light_skin_tone" skin_tone"/>
-   ":woman_getting_haircut_medium_dark_skin_tone" haircut_medium_dark_skin_tone"/>
-   ":woman_getting_haircut_medium_light_skin_tone" haircut_medium_light_skin_tone"/>
-   ":woman_getting_haircut_medium_skin_tone" skin_tone"/>
+   ":woman_getting_haircut_dark_skin_tone" skin_tone"
+   ":woman_getting_haircut_light_skin_tone" skin_tone"
+   ":woman_getting_haircut_medium_dark_skin_tone" haircut_medium_dark_skin_tone"
+   ":woman_getting_haircut_medium_light_skin_tone" haircut_medium_light_skin_tone"
+   ":woman_getting_haircut_medium_skin_tone" skin_tone"
    ":woman_getting_massage" 
-   ":woman_getting_massage_dark_skin_tone" skin_tone"/>
-   ":woman_getting_massage_light_skin_tone" skin_tone"/>
-   ":woman_getting_massage_medium_dark_skin_tone" massage_medium_dark_skin_tone"/>
-   ":woman_getting_massage_medium_light_skin_tone" massage_medium_light_skin_tone"/>
-   ":woman_getting_massage_medium_skin_tone" skin_tone"/>
+   ":woman_getting_massage_dark_skin_tone" skin_tone"
+   ":woman_getting_massage_light_skin_tone" skin_tone"
+   ":woman_getting_massage_medium_dark_skin_tone" massage_medium_dark_skin_tone"
+   ":woman_getting_massage_medium_light_skin_tone" massage_medium_light_skin_tone"
+   ":woman_getting_massage_medium_skin_tone" skin_tone"
    ":woman_golfing" 
    ":woman_golfing_dark_skin_tone" 
    ":woman_golfing_light_skin_tone" 
-   ":woman_golfing_medium_dark_skin_tone" skin_tone"/>
-   ":woman_golfing_medium_light_skin_tone" skin_tone"/>
+   ":woman_golfing_medium_dark_skin_tone" skin_tone"
+   ":woman_golfing_medium_light_skin_tone" skin_tone"
    ":woman_golfing_medium_skin_tone" 
    ":woman_guard" 
    ":woman_guard_dark_skin_tone" 
@@ -2205,10 +2205,10 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":woman_guard_medium_skin_tone" 
    ":woman_health_worker" 
    ":woman_health_worker_dark_skin_tone" 
-   ":woman_health_worker_light_skin_tone" skin_tone"/>
-   ":woman_health_worker_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":woman_health_worker_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_health_worker_medium_skin_tone" skin_tone"/>
+   ":woman_health_worker_light_skin_tone" skin_tone"
+   ":woman_health_worker_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":woman_health_worker_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_health_worker_medium_skin_tone" skin_tone"
    ":woman_judge" 
    ":woman_judge_dark_skin_tone" 
    ":woman_judge_light_skin_tone" 
@@ -2218,37 +2218,37 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":woman_juggling" 
    ":woman_juggling_dark_skin_tone" 
    ":woman_juggling_light_skin_tone" 
-   ":woman_juggling_medium_dark_skin_tone" skin_tone"/>
-   ":woman_juggling_medium_light_skin_tone" skin_tone"/>
+   ":woman_juggling_medium_dark_skin_tone" skin_tone"
+   ":woman_juggling_medium_light_skin_tone" skin_tone"
    ":woman_juggling_medium_skin_tone" 
    ":woman_lifting_weights" 
-   ":woman_lifting_weights_dark_skin_tone" skin_tone"/>
-   ":woman_lifting_weights_light_skin_tone" skin_tone"/>
-   ":woman_lifting_weights_medium_dark_skin_tone" weights_medium_dark_skin_tone"/>
-   ":woman_lifting_weights_medium_light_skin_tone" weights_medium_light_skin_tone"/>
-   ":woman_lifting_weights_medium_skin_tone" skin_tone"/>
+   ":woman_lifting_weights_dark_skin_tone" skin_tone"
+   ":woman_lifting_weights_light_skin_tone" skin_tone"
+   ":woman_lifting_weights_medium_dark_skin_tone" weights_medium_dark_skin_tone"
+   ":woman_lifting_weights_medium_light_skin_tone" weights_medium_light_skin_tone"
+   ":woman_lifting_weights_medium_skin_tone" skin_tone"
    ":woman_light_skin_tone" 
    ":woman_mechanic" 
    ":woman_mechanic_dark_skin_tone" 
    ":woman_mechanic_light_skin_tone" 
-   ":woman_mechanic_medium_dark_skin_tone" skin_tone"/>
-   ":woman_mechanic_medium_light_skin_tone" skin_tone"/>
+   ":woman_mechanic_medium_dark_skin_tone" skin_tone"
+   ":woman_mechanic_medium_light_skin_tone" skin_tone"
    ":woman_mechanic_medium_skin_tone" 
    ":woman_medium_dark_skin_tone" 
    ":woman_medium_light_skin_tone" 
    ":woman_medium_skin_tone" 
    ":woman_mountain_biking" 
-   ":woman_mountain_biking_dark_skin_tone" skin_tone"/>
-   ":woman_mountain_biking_light_skin_tone" skin_tone"/>
-   ":woman_mountain_biking_medium_dark_skin_tone" biking_medium_dark_skin_tone"/>
-   ":woman_mountain_biking_medium_light_skin_tone" biking_medium_light_skin_tone"/>
-   ":woman_mountain_biking_medium_skin_tone" skin_tone"/>
+   ":woman_mountain_biking_dark_skin_tone" skin_tone"
+   ":woman_mountain_biking_light_skin_tone" skin_tone"
+   ":woman_mountain_biking_medium_dark_skin_tone" biking_medium_dark_skin_tone"
+   ":woman_mountain_biking_medium_light_skin_tone" biking_medium_light_skin_tone"
+   ":woman_mountain_biking_medium_skin_tone" skin_tone"
    ":woman_office_worker" 
    ":woman_office_worker_dark_skin_tone" 
-   ":woman_office_worker_light_skin_tone" skin_tone"/>
-   ":woman_office_worker_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":woman_office_worker_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_office_worker_medium_skin_tone" skin_tone"/>
+   ":woman_office_worker_light_skin_tone" skin_tone"
+   ":woman_office_worker_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":woman_office_worker_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_office_worker_medium_skin_tone" skin_tone"
    ":woman_pilot" 
    ":woman_pilot_dark_skin_tone" 
    ":woman_pilot_light_skin_tone" 
@@ -2256,113 +2256,113 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":woman_pilot_medium_light_skin_tone" 
    ":woman_pilot_medium_skin_tone" 
    ":woman_playing_handball" 
-   ":woman_playing_handball_dark_skin_tone" skin_tone"/>
-   ":woman_playing_handball_light_skin_tone" skin_tone"/>
-   ":woman_playing_handball_medium_dark_skin_tone" handball_medium_dark_skin_tone"/>
-   ":woman_playing_handball_medium_light_skin_tone" handball_medium_light_skin_tone"/>
-   ":woman_playing_handball_medium_skin_tone" medium_skin_tone"/>
+   ":woman_playing_handball_dark_skin_tone" skin_tone"
+   ":woman_playing_handball_light_skin_tone" skin_tone"
+   ":woman_playing_handball_medium_dark_skin_tone" handball_medium_dark_skin_tone"
+   ":woman_playing_handball_medium_light_skin_tone" handball_medium_light_skin_tone"
+   ":woman_playing_handball_medium_skin_tone" medium_skin_tone"
    ":woman_playing_water_polo" 
-   ":woman_playing_water_polo_dark_skin_tone" dark_skin_tone"/>
-   ":woman_playing_water_polo_light_skin_tone" light_skin_tone"/>
-   ":woman_playing_water_polo_medium_dark_skin_tone" water_polo_medium_dark_skin_tone"/>
-   ":woman_playing_water_polo_medium_light_skin_tone" playing_water_polo_medium_light_skin_tone"/>
-   ":woman_playing_water_polo_medium_skin_tone" _medium_skin_tone"/>
+   ":woman_playing_water_polo_dark_skin_tone" dark_skin_tone"
+   ":woman_playing_water_polo_light_skin_tone" light_skin_tone"
+   ":woman_playing_water_polo_medium_dark_skin_tone" water_polo_medium_dark_skin_tone"
+   ":woman_playing_water_polo_medium_light_skin_tone" playing_water_polo_medium_light_skin_tone"
+   ":woman_playing_water_polo_medium_skin_tone" _medium_skin_tone"
    ":woman_police_officer" 
-   ":woman_police_officer_dark_skin_tone" skin_tone"/>
-   ":woman_police_officer_light_skin_tone" skin_tone"/>
-   ":woman_police_officer_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":woman_police_officer_medium_light_skin_tone" _medium_light_skin_tone"/>
-   ":woman_police_officer_medium_skin_tone" skin_tone"/>
+   ":woman_police_officer_dark_skin_tone" skin_tone"
+   ":woman_police_officer_light_skin_tone" skin_tone"
+   ":woman_police_officer_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":woman_police_officer_medium_light_skin_tone" _medium_light_skin_tone"
+   ":woman_police_officer_medium_skin_tone" skin_tone"
    ":woman_pouting" 
    ":woman_pouting_dark_skin_tone" 
    ":woman_pouting_light_skin_tone" 
-   ":woman_pouting_medium_dark_skin_tone" skin_tone"/>
-   ":woman_pouting_medium_light_skin_tone" skin_tone"/>
+   ":woman_pouting_medium_dark_skin_tone" skin_tone"
+   ":woman_pouting_medium_light_skin_tone" skin_tone"
    ":woman_pouting_medium_skin_tone" 
    ":woman_raising_hand" 
    ":woman_raising_hand_dark_skin_tone" 
    ":woman_raising_hand_light_skin_tone" 
-   ":woman_raising_hand_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_raising_hand_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_raising_hand_medium_skin_tone" skin_tone"/>
+   ":woman_raising_hand_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_raising_hand_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_raising_hand_medium_skin_tone" skin_tone"
    ":woman_rowing_boat" 
    ":woman_rowing_boat_dark_skin_tone" 
    ":woman_rowing_boat_light_skin_tone" 
-   ":woman_rowing_boat_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_rowing_boat_medium_light_skin_tone" light_skin_tone"/>
+   ":woman_rowing_boat_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_rowing_boat_medium_light_skin_tone" light_skin_tone"
    ":woman_rowing_boat_medium_skin_tone" 
    ":woman_running" 
    ":woman_running_dark_skin_tone" 
    ":woman_running_light_skin_tone" 
-   ":woman_running_medium_dark_skin_tone" skin_tone"/>
-   ":woman_running_medium_light_skin_tone" skin_tone"/>
+   ":woman_running_medium_dark_skin_tone" skin_tone"
+   ":woman_running_medium_light_skin_tone" skin_tone"
    ":woman_running_medium_skin_tone" 
    ":woman_scientist" 
    ":woman_scientist_dark_skin_tone" 
    ":woman_scientist_light_skin_tone" 
-   ":woman_scientist_medium_dark_skin_tone" skin_tone"/>
-   ":woman_scientist_medium_light_skin_tone" skin_tone"/>
+   ":woman_scientist_medium_dark_skin_tone" skin_tone"
+   ":woman_scientist_medium_light_skin_tone" skin_tone"
    ":woman_scientist_medium_skin_tone" 
    ":woman_shrugging" 
    ":woman_shrugging_dark_skin_tone" 
    ":woman_shrugging_light_skin_tone" 
-   ":woman_shrugging_medium_dark_skin_tone" skin_tone"/>
-   ":woman_shrugging_medium_light_skin_tone" skin_tone"/>
+   ":woman_shrugging_medium_dark_skin_tone" skin_tone"
+   ":woman_shrugging_medium_light_skin_tone" skin_tone"
    ":woman_shrugging_medium_skin_tone" 
    ":woman_singer" 
    ":woman_singer_dark_skin_tone" 
    ":woman_singer_light_skin_tone" 
    ":woman_singer_medium_dark_skin_tone" 
-   ":woman_singer_medium_light_skin_tone" skin_tone"/>
+   ":woman_singer_medium_light_skin_tone" skin_tone"
    ":woman_singer_medium_skin_tone" 
    ":woman_student" 
    ":woman_student_dark_skin_tone" 
    ":woman_student_light_skin_tone" 
-   ":woman_student_medium_dark_skin_tone" skin_tone"/>
-   ":woman_student_medium_light_skin_tone" skin_tone"/>
+   ":woman_student_medium_dark_skin_tone" skin_tone"
+   ":woman_student_medium_light_skin_tone" skin_tone"
    ":woman_student_medium_skin_tone" 
    ":woman_surfing" 
    ":woman_surfing_dark_skin_tone" 
    ":woman_surfing_light_skin_tone" 
-   ":woman_surfing_medium_dark_skin_tone" skin_tone"/>
-   ":woman_surfing_medium_light_skin_tone" skin_tone"/>
+   ":woman_surfing_medium_dark_skin_tone" skin_tone"
+   ":woman_surfing_medium_light_skin_tone" skin_tone"
    ":woman_surfing_medium_skin_tone" 
    ":woman_swimming" 
    ":woman_swimming_dark_skin_tone" 
    ":woman_swimming_light_skin_tone" 
-   ":woman_swimming_medium_dark_skin_tone" skin_tone"/>
-   ":woman_swimming_medium_light_skin_tone" skin_tone"/>
+   ":woman_swimming_medium_dark_skin_tone" skin_tone"
+   ":woman_swimming_medium_light_skin_tone" skin_tone"
    ":woman_swimming_medium_skin_tone" 
    ":woman_teacher" 
    ":woman_teacher_dark_skin_tone" 
    ":woman_teacher_light_skin_tone" 
-   ":woman_teacher_medium_dark_skin_tone" skin_tone"/>
-   ":woman_teacher_medium_light_skin_tone" skin_tone"/>
+   ":woman_teacher_medium_dark_skin_tone" skin_tone"
+   ":woman_teacher_medium_light_skin_tone" skin_tone"
    ":woman_teacher_medium_skin_tone" 
    ":woman_technologist" 
    ":woman_technologist_dark_skin_tone" 
    ":woman_technologist_light_skin_tone" 
-   ":woman_technologist_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_technologist_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_technologist_medium_skin_tone" tone"/>
+   ":woman_technologist_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_technologist_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_technologist_medium_skin_tone" tone"
    ":woman_tipping_hand" 
    ":woman_tipping_hand_dark_skin_tone" 
    ":woman_tipping_hand_light_skin_tone" 
-   ":woman_tipping_hand_medium_dark_skin_tone" dark_skin_tone"/>
-   ":woman_tipping_hand_medium_light_skin_tone" medium_light_skin_tone"/>
-   ":woman_tipping_hand_medium_skin_tone" skin_tone"/>
+   ":woman_tipping_hand_medium_dark_skin_tone" dark_skin_tone"
+   ":woman_tipping_hand_medium_light_skin_tone" medium_light_skin_tone"
+   ":woman_tipping_hand_medium_skin_tone" skin_tone"
    ":woman_walking" 
    ":woman_walking_dark_skin_tone" 
    ":woman_walking_light_skin_tone" 
-   ":woman_walking_medium_dark_skin_tone" skin_tone"/>
-   ":woman_walking_medium_light_skin_tone" skin_tone"/>
+   ":woman_walking_medium_dark_skin_tone" skin_tone"
+   ":woman_walking_medium_light_skin_tone" skin_tone"
    ":woman_walking_medium_skin_tone" 
    ":woman_wearing_turban" 
-   ":woman_wearing_turban_dark_skin_tone" skin_tone"/>
-   ":woman_wearing_turban_light_skin_tone" skin_tone"/>
-   ":woman_wearing_turban_medium_dark_skin_tone" medium_dark_skin_tone"/>
-   ":woman_wearing_turban_medium_light_skin_tone" _medium_light_skin_tone"/>
-   ":woman_wearing_turban_medium_skin_tone" skin_tone"/>
+   ":woman_wearing_turban_dark_skin_tone" skin_tone"
+   ":woman_wearing_turban_light_skin_tone" skin_tone"
+   ":woman_wearing_turban_medium_dark_skin_tone" medium_dark_skin_tone"
+   ":woman_wearing_turban_medium_light_skin_tone" _medium_light_skin_tone"
+   ":woman_wearing_turban_medium_skin_tone" skin_tone"
    ":woman’s_boot" 
    ":woman’s_clothes" 
    ":woman’s_hat" 
@@ -2378,7 +2378,7 @@ Program Files(x86)\Cisco Systems\Cisco Jabber\
    ":writing_hand_dark_skin_tone" 
    ":writing_hand_light_skin_tone" 
    ":writing_hand_medium_dark_skin_tone" 
-   ":writing_hand_medium_light_skin_tone" skin_tone"/>
+   ":writing_hand_medium_light_skin_tone" skin_tone"
    ":writing_hand_medium_skin_tone" 
    ":yellow_heart" 
    ":yemen" 
