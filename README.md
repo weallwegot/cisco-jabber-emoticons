@@ -2,6 +2,9 @@
 
 Get the full set of emojis (2,300+) available on Cisco Jabber 
 
+![jabber_emoji_demo](https://user-images.githubusercontent.com/13176059/31515311-b84c2e5e-af62-11e7-84db-6781e4751ec4.gif)
+
+
 Move the `CustomEmoticons` folder into:
 ---------
 For 32-bit operating systems:
